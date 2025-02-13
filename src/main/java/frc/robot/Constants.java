@@ -18,11 +18,11 @@ public final class Constants {
   }
 
   public static class ElevatorConstants{
-    public static final int elevatorLeaderID = (Integer) 1;
-    public static final int elevatorFollowerID = (Integer) 2;
+    public static final int elevatorLeaderID = (Integer) 13;
+    public static final int elevatorFollowerID = (Integer) 14;
   }
 
   public static class CoralPlacerConstants{
-    public static final int placerMotorID = (Integer) 3;
+    public static final int placerMotorID = (Integer) 15;
   }
 }
